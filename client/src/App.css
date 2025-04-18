@@ -1,0 +1,25 @@
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #fff;
+  margin: 0;
+  padding: 0;
+}
+
+h1, h2, h3 {
+  color: #004c97; /* Blue color for headings */
+}
+
+button {
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #d67e22; /* Darker orange on hover */
+}
+
+footer {
+  background-color: #004c97; /* Blue footer */
+  color: white;
+  padding: 10px;
+}
